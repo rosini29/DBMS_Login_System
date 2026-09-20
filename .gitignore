@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.accdb
+*.laccdb
+Screenshots/
+*.zip
